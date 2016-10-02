@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4508815-F21A-44D6-808D-A838FFEEC6D1">
+  <lastEdited clientType="local-build-20120629" date="2012-06-29 07:24:44 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;From Two Wheels To Two Feet&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, November 22, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;A month ago I had surgery to fix a separated shoulder incurred when my mountain bike slid out on gravel a few blocks from our house. I had just come off the mountain from a great ride on singletrack and was back on pavement rounding a corner when it happened--argh. In any case, it has caused me to stay off of two wheels and rely on my two feet for exercise. The photo above is from a hike this past week with Clark Taylor to the top of Y Mountain.&#xD;&#xD;December 4, 2009&#xD;Today I hiked to the top of Y Mountain again, this time with Karl Warnick. Here&#x2019;s a picture from  the top.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_From_Two_Wheels_To_Two_Feet_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

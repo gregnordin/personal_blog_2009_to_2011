@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4508815-F21A-44D6-808D-A838FFEEC6D1">
+  <lastEdited clientType="local-build-20120629" date="2012-06-29 07:23:59 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Karl's First Ride&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, April 22, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;After a long period of enforced idleness in my garage, I had finally gotten one of my old bikes, a 1994 Honda XR250, running and ready to sell. Before selling it though, I wanted to put it to one more use as a starter bike to teach someone the basics of dirt biking. I had done this numerous times before with a brother and many nephews, but now it was time to take my friend Karl out for his first real dirt bike ride. He had briefly been on a few dirt bikes before, but hadn&#x2019;t really been initiated into the dirt bike rider brotherhood.  &#xD;&#xD;To begin the initiation, I like to take a person out to 5 Mile Pass and start them in the parking lot practicing starts and stops to get used to the controls and to begin to develop muscle memory. Here is Karl beginning to spend time on the bike:&#xD;&#xD;&#xD;Next, I take the initiate to some mounds to practice going up and down inclines to get them ready for terrain they will experience on trails. Karl mastered this pretty quickly.&#xD;&#xD;&#xD;&#xD;&#xD;Now it&#x2019;s time to get out on the trails! Note that Karl is getting right into standing while riding.&#xD;&#xD;&#xD;Karl&#x2019;s uphill and downhill practice was put to good use. Here is one section of trail that he easily handled.&#xD;&#xD;In our travels we came across one of the blocked-up mine shafts that are found at 5 Mile Pass.&#xD;&#xD;And now it&#x2019;s getting late and time to head back to the truck.&#xD;&#xD;Karl was a natural--great job!&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Karls_First_Ride_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

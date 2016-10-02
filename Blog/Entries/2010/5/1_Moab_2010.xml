@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4508815-F21A-44D6-808D-A838FFEEC6D1">
+  <lastEdited clientType="local-build-20120629" date="2012-06-29 07:24:47 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Moab 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, May 1, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;On April 25 Aaron and I drove down to Green River to meet Mark Noble &amp; Path Thompson from Huntsville, Alabama, Mike Olsen from Atlanta, and Matt Blank and Steve Neal from Utah for 6 days of riding in the San Rafael Swell, Moab, and southeastern Utah. Click on each link below to see pictures &amp; videos for each day. &#xD;&#xD;&lt;/b&gt;&lt;b&gt;&lt;a href="http://web.me.com/greg.nordin/Utah_Offroad_Biking/Moab_2010_Day_1.html#0"&gt;Day 1: San Rafael Swell &amp; Colored Trails&lt;/a&gt;&lt;/b&gt;&lt;b&gt;&#xD;UNDER CONSTRUCTION: Day 2: Dead Cow, White Wash, etc.&#xD;UNDER CONSTRUCTION: Day 3: Kane Creek, Behind the Rocks, Pritchett Canyon&#xD;UNDER CONSTRUCTION: Day 4: Hell&#x2019;s Revenge &amp; Slickrock, Top of the World &amp; Onion Creek&#xD;UNDER CONSTRUCTION: Day 5: Hole in the Rock&#xD;UNDER CONSTRUCTION: Day 6: Arch Canyon&#xD;&#xD;The map below shows our GPS tracks for each day. You can zoom, pan, change map type, etc. to take a closer look. In the upper right hand corner is a legend/navigation box for each day&#x2019;s ride(s). The dates are denoted in YYMMDD format.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Moab_2010_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

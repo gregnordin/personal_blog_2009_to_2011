@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4508815-F21A-44D6-808D-A838FFEEC6D1">
+  <lastEdited clientType="local-build-20120629" date="2012-06-29 07:25:40 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Moab 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, May 7, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This year our Moab trip was somewhat abbreviated, consisting of 3.5 days of riding, from May 4 to May 7, instead of 6 days like last year due to some scheduling conflicts with work. We also had a shifting cast of characters. Mark &amp; Pat from Huntsville, Alabama were not able to make it this year because Mark broke his leg a few months ago and isn&#x2019;t quite ready to go yet. While they were sorely missed, we still had a fantastic time! &#xD;&#xD;We stayed all 4 nights of our trip in Green River rather than Moab because it was more central to the trails we wanted to ride. While there is definitely a lot more happening in Moab than Green River, the convenience more than outweighed other considerations. Besides, Green River has one of our favorite dinner stops--Rays!&#xD;&#xD;A new participant, Dave, had a helmet cam and made a video from his footage for each of the 4 days we rode. The videos are included below. If you can only watch one of them, be sure to look at Day 4 on which we rode the infamous 5 Miles of Hell trail, which was definitely a challenge!&#xD;&#xD;This year I didn&#x2019;t take as many pictures, but I&#x2019;ve included links to some photos from Days 1 &amp; 2. On Day 3 my camera began to die the same way all of my previous cameras have given up the ghost, i.e., grit in the lens mechanism which causes it to become stuck. Fortunately, it has since cleared itself. The camera has already lasted a lot longer (1.5 years) than my previous cameras (1 year at the most!) since I&#x2019;ve been much more careful about protecting it from trail dust. &#xD;&#xD;Below is a map with GPS tracks from each day&#x2019;s ride. Day 2 (May 5) is broken up into two tracks.&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_Moab_2011_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

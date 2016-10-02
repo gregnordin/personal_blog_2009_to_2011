@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4508815-F21A-44D6-808D-A838FFEEC6D1">
+  <lastEdited clientType="local-build-20120629" date="2012-06-29 07:24:49 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Banff 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, May 29, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This last week I spent 3 days in Banff, Canada to speak at the &lt;/b&gt;&lt;b&gt;&lt;a href="http://www.nmc2010.org/"&gt;7th International Workshop on Nanomechanical Cantilever Sensors&lt;/a&gt;&lt;/b&gt;&lt;b&gt;. I flew into Calgary Tuesday night and drove nearly 2 hours to Banff, arriving after midnight. This was my first visit to the area, which is stunningly beautiful. The town is set in a valley in the Rocky Mountains surrounded by tall, steep mountains covered with forest. Unfortunately, the weather was wet, cold, and cloudy so I wasn&#x2019;t able to get a clear view most of the time. Thursday morning I got up early and did a 5 mile run in the rain. The next morning I did a 7-8 mile run except it was actually snowing. Pretty strange running in the snow at the end of May!&#xD;&#xD;Some pictures from the trip are at the link below.&#xD;&#xD;&lt;/b&gt;&lt;b&gt;&lt;a href="http://web.me.com/greg.nordin/Utah_Offroad_Biking/My_Albums/Pages/Photos-Banff_2010.html#0"&gt;2010 Banff Photos&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Banff_2010_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

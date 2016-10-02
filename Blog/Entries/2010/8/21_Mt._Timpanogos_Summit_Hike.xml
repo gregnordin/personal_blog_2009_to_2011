@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4508815-F21A-44D6-808D-A838FFEEC6D1">
+  <lastEdited clientType="local-build-20120629" date="2012-06-29 07:24:57 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Mt. Timpanogos Summit Hike&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, August 21, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;My son Aaron and I hiked the Timpooneke trail from American Fork Canyon to the summit of Mt. Timpanogos (11,750 ft). It was absolutely epic with beautiful weather and stunning views. The trail was incredible, especially at and near the summit. The last few Saturdays I&#x2019;ve hiked to the top of Big Baldy (a hike I&#x2019;ve done many times), Box Elder Peak (11,100 ft), and now Mt. Timpanogos. There are many other peaks nearby so I am thinking to start climbing more of them.&#xD;&#xD;Aaron and I started our Mt. Timpanogos hike at 9:50 am. It took us 6 hours hiking time, with 45 minutes spent at the summit and 15 minutes chatting with the emergency response crew at Emerald Lake for a total round trip time of 7 hours. Here are a few other details:&#xD;&#xD;Total distance: 14.9 miles&#xD;Total climb elevation: 6,500 ft&#xD;Time to summit: 3:35&#xD;Time from summit down snowfield to Emerald Lake: 0:55&#xD;Time from Emerald Lake back down to truck: 1:30 (we ran pretty much the whole way)&#xD;&#xD;&lt;/b&gt;&lt;b&gt;&lt;a href="http://nanomicro.byu.edu/~nordin/Maps/HI100821-Mt%20Timpanogos%20with%20Aaron.html"&gt;Click here to go to a terrain map of the hike&#xD;&lt;/a&gt;&lt;/b&gt;&lt;b&gt;&#xD;Pictures and a description of the hike are at this link: &lt;/b&gt;&lt;b&gt;&lt;a href="http://web.me.com/greg.nordin/Utah_Offroad_Biking/My_Albums/Pages/Aug_21,_2010-Mt_Timpanogos_Hike.html#0"&gt;8/21/10 Mt. Timpanogos Hike Photos&lt;/a&gt;&lt;/b&gt;&lt;b&gt;. Definitely check these out!&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Mt._Timpanogos_Summit_Hike_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

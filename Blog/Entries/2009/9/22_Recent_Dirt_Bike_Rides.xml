@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4508815-F21A-44D6-808D-A838FFEEC6D1">
+  <lastEdited clientType="local-build-20120629" date="2012-06-29 07:24:25 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Recent Dirt Bike Rides&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, September 22, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;On Friday, Sept. 18, Aaron, Matt, and I did a quick (1 hr 40 min) ride at American Fork Canyon. We did a loop that included dropping down into Mutual Dell in Bear Canyon, which has a bunch of gnarly (&amp; fun!) tight switchbacks on the downhill trail, and several on the uphill one. Unfortunately, Matt suffered damage to his handlebar while negotiating one of the switchbacks.&#xD;&#xD;It made for a rather uncomfortable riding position back to the truck!&#xD;&#xD;On Tuesday, Sept. 22, Gene &amp; I went for a ride in American Fork Canyon. This time we did trail 038, which has the reputation of being the most difficult trail up there. I haven&#x2019;t ridden it in 3 years. Since then someone has re-routed the most difficult section of the trail to avoid some bad uphill roots, and the downhill switchbacks have mellowed out a bit so they are not as difficult as the ones down into Mutual Dell. &#xD;&#xD;Gene:&#xD;&#xD;&#xD;Trail 039 on our way over to 038&#xD;&#xD;&#xD;Turnoff to Trail 038. Yes, it&#x2019;s steep!&#xD;&#xD;&#xD;Looking down into Heber from 038&#xD;&#xD;&#xD;We&#x2019;ve just come down the switchbacks (which you can&#x2019;t see up on the slope in this view)&#xD;&#xD;&#xD;Now we&#x2019;ve crossed Poleline Pass and are on Trail 157. This is one of my favorite pictures.&#xD;&#xD;&#xD;We went down some more steep switchbacks, then did the climb up to Sunset Peak.&#xD;&#xD;&#xD;View down into Brighton (Park City side of the mountain)&#xD;&#xD;&#xD;We had a great ride--3 hours and around 37 miles. The single track in AF Canyon is just amazing, as is the scenery!&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Recent_Dirt_Bike_Rides_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

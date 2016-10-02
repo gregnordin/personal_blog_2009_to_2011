@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4508815-F21A-44D6-808D-A838FFEEC6D1">
+  <lastEdited clientType="local-build-20120629" date="2012-06-29 07:23:28 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;5-Mile Pass: 1st dirt bike ride of 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, March 12, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Finally, enough snow has melted to get the dirt bike out and ride! Matt, Steve, and I went to 5 Mile Pass for a few hours of afternoon riding. The temperature was in the low 60&#x2019;s and the sky was blue--perfect riding weather! I&#x2019;m including a few pictures below:&#xD; &#xD;Mine tailing&#xD; &#xD;After going up Rattlesnake Canyon we headed up Constrictor Canyon, the most interesting feature of which is this 6-7 foot waterfall that jeepers love to try and go up. We stopped before this point and walked the last little bit to show Matt, and to scope out a way around for a future attempt.&#xD; &#xD;Just above where we left the bikes was this old mine carved into the side of the canyon.&#xD; &#xD;Matt&#xD; &#xD;Steve&#xD; &#xD;Greg&#xD; &#xD;View from the trail--there are still patches of snow on some of the north-facing slopes.&#xD; &#xD;Matt&#xD; &#xD;Another view from the trail, looking to the south.&#xD; &#xD;And looking east toward the back of Lake Mountain, which is located on the west side of Utah Lake.&#xD;&#xD;Bottom line: it was great to get back out on the bike!&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_5-Mile_Pass__1st_dirt_bike_ride_of_2009_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

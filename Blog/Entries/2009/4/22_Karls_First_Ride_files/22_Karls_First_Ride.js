@@ -1,0 +1,25 @@
+// Created by iWeb 3.0.4 local-build-20120629
+
+function writeMovie1()
+{detectBrowser();if(windowsInternetExplorer)
+{document.write('<object id="id3" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="320" height="256" style="height: 256px; position: relative; width: 320px; " class="inline-block"><param name="src" value="../../../../Media/DSCN1436_qual-medium.MOV"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}
+else if(isiPhone)
+{document.write('<object id="id3" type="video/quicktime" width="320" height="256" style="height: 256px; position: relative; width: 320px; " class="inline-block"><param name="src" value="22_Karls_First_Ride_files/DSCN1436_qual-medium-1.jpg"/><param name="target" value="myself"/><param name="href" value="../../../../../Media/DSCN1436_qual-medium.MOV"/><param name="controller" value="true"/><param name="scale" value="tofit"/></object>');}
+else
+{document.write('<object id="id3" type="video/quicktime" width="320" height="256" data="../../../../Media/DSCN1436_qual-medium.MOV" style="height: 256px; position: relative; width: 320px; " class="inline-block"><param name="src" value="../../../../Media/DSCN1436_qual-medium.MOV"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}}
+function writeMovie2()
+{detectBrowser();if(windowsInternetExplorer)
+{document.write('<object id="id4" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="320" height="256" style="height: 256px; position: relative; width: 320px; " class="inline-block"><param name="src" value="../../../../Media/DSCN1441_qual-medium.MOV"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}
+else if(isiPhone)
+{document.write('<object id="id4" type="video/quicktime" width="320" height="256" style="height: 256px; position: relative; width: 320px; " class="inline-block"><param name="src" value="22_Karls_First_Ride_files/DSCN1441_qual-medium-1.jpg"/><param name="target" value="myself"/><param name="href" value="../../../../../Media/DSCN1441_qual-medium.MOV"/><param name="controller" value="true"/><param name="scale" value="tofit"/></object>');}
+else
+{document.write('<object id="id4" type="video/quicktime" width="320" height="256" data="../../../../Media/DSCN1441_qual-medium.MOV" style="height: 256px; position: relative; width: 320px; " class="inline-block"><param name="src" value="../../../../Media/DSCN1441_qual-medium.MOV"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}}
+setTransparentGifURL('../../../../Media/transparent.gif');function applyEffects()
+{var registry=IWCreateEffectRegistry();registry.registerEffects({shadow_0:new IWShadow({blurRadius:4,offset:new IWPoint(1.4142,1.4142),color:'#000000',opacity:0.500000}),stroke_0:new IWStrokeParts([{rect:new IWRect(-1,1,2,455),url:'22_Karls_First_Ride_files/stroke.png'},{rect:new IWRect(-1,-1,2,2),url:'22_Karls_First_Ride_files/stroke_1.png'},{rect:new IWRect(1,-1,608,2),url:'22_Karls_First_Ride_files/stroke_2.png'},{rect:new IWRect(609,-1,3,2),url:'22_Karls_First_Ride_files/stroke_3.png'},{rect:new IWRect(609,1,3,455),url:'22_Karls_First_Ride_files/stroke_4.png'},{rect:new IWRect(609,456,3,3),url:'22_Karls_First_Ride_files/stroke_5.png'},{rect:new IWRect(1,456,608,3),url:'22_Karls_First_Ride_files/stroke_6.png'},{rect:new IWRect(-1,456,2,3),url:'22_Karls_First_Ride_files/stroke_7.png'}],new IWSize(610,457)),shadow_5:new IWShadow({blurRadius:4,offset:new IWPoint(1.4142,1.4142),color:'#000000',opacity:0.500000}),shadow_2:new IWShadow({blurRadius:4,offset:new IWPoint(1.4142,1.4142),color:'#000000',opacity:0.500000}),shadow_1:new IWShadow({blurRadius:4,offset:new IWPoint(1.4142,1.4142),color:'#000000',opacity:0.500000}),shadow_3:new IWShadow({blurRadius:4,offset:new IWPoint(1.4142,1.4142),color:'#000000',opacity:0.500000}),shadow_4:new IWShadow({blurRadius:4,offset:new IWPoint(1.4142,1.4142),color:'#000000',opacity:0.500000})});registry.applyEffects();}
+function hostedOnDM()
+{return false;}
+function onPageLoad()
+{dynamicallyPopulate();loadMozillaCSS('22_Karls_First_Ride_files/22_Karls_First_RideMoz.css')
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');detectBrowser();adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');adjustLineHeightIfTooBig('id6');adjustFontSizeIfTooBig('id6');Widget.onload();fixAllIEPNGs('../../../../Media/transparent.gif');BlogFixupPreviousNext();applyEffects()}
+function onPageUnload()
+{Widget.onunload();}

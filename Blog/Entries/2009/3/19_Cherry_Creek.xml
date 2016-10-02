@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4508815-F21A-44D6-808D-A838FFEEC6D1">
+  <lastEdited clientType="local-build-20120629" date="2012-06-29 07:23:33 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Cherry Creek&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, March 19, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Steve and I took off for another afternoon ride, the 2nd of the year. This time we went to Cherry Creek, which is about an hour and a half from my home, and the site of several desert races each year, including one in the national Hare &amp; Hound series. I did a number of the races in 2007 and had a blast. Hopefully this year I&#x2019;ll be able to enter a few more of them.&#xD;&#xD;Getting ready to ride--we park down in the flat areas and head for the hills.&#xD;&#xD;Starting to get into the hills&#xD;&#xD;&#xD;There was still quite a bit of snow on north-facing slopes:&lt;/b&gt;&#xD;&lt;b&gt;&#xD;&lt;/b&gt;&lt;b&gt;Here is Steve coming through some snow on one of the trails, and, yes, snow is very squirrelly to ride in!&#xD;&lt;/b&gt;&#xD;&lt;b&gt;&#xD;Taking a break--conqueror of the snow fields!&#xD;&#xD;Riding up and down various washes is also a lot of fun. Here I took a wrong turn, missed the trail, and am coming out of a narrow wash.&#xD;&#xD;Back on the trail:&#xD;&#xD;&#xD;And here are some views from the trails:&#xD;&#xD;&#xD;&#xD;We rode for nearly three and a half hours and had a blast. Before getting into the hills the trails seem like they are mostly whoops, which give you a great work out. At one point I got up to my whoop &#x201C;race pace.&#x201D; This consists of slowing down so much that you just roll over the whoops to conserve energy to be able to make it to the end of the race. But it wasn&#x2019;t much fun so I went back to skipping across the top of the whoops. I am definitely loving my 2007 KTM 300 xc!&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Cherry_Creek_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

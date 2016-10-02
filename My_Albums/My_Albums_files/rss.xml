@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Albums</title>
+    <link>file://localhost/Users/nordin2/Dropbox/Public/web/Greg_Nordins_Blog/My_Albums/My_Albums.html</link>
+    <description>My Albums</description>
+    <item>
+      <title>Moab2011_Day2</title>
+      <link>file://localhost/Users/nordin2/Dropbox/Public/web/Greg_Nordins_Blog/My_Albums/Pages/Moab2011_Day2.html</link>
+      <guid isPermaLink="false">b840f8e2-7fc0-4abf-b914-853de4f94db5</guid>
+    </item>
+    <item>
+      <title>Moab2011_Day1</title>
+      <link>file://localhost/Users/nordin2/Dropbox/Public/web/Greg_Nordins_Blog/My_Albums/Pages/Moab2011_Day1.html</link>
+      <guid isPermaLink="false">b13de50d-0c30-47b9-89df-4edfce3f3cb0</guid>
+    </item>
+    <item>
+      <title>Aug 21, 2010-Mt Timpanogos Hike</title>
+      <link>file://localhost/Users/nordin2/Dropbox/Public/web/Greg_Nordins_Blog/My_Albums/Pages/Aug_21,_2010-Mt_Timpanogos_Hike.html</link>
+      <guid isPermaLink="false">c9e81f13-8517-45a4-80f2-3ced3f3316a7</guid>
+    </item>
+    <item>
+      <title>Photos-Banff 2010</title>
+      <link>file://localhost/Users/nordin2/Dropbox/Public/web/Greg_Nordins_Blog/My_Albums/Pages/Photos-Banff_2010.html</link>
+      <guid isPermaLink="false">6dadb247-45bf-41ae-865f-2c493198a0c6</guid>
+    </item>
+    <item>
+      <title>Photos-Moab 2010 Day 1</title>
+      <link>file://localhost/Users/nordin2/Dropbox/Public/web/Greg_Nordins_Blog/My_Albums/Pages/Photos-Moab_2010_Day_1.html</link>
+      <guid isPermaLink="false">ca2bee58-6c1e-452d-8ac5-da880bffcbb1</guid>
+    </item>
+    <item>
+      <title>First 2009 Dirt bike ride</title>
+      <link>file://localhost/Users/nordin2/Dropbox/Public/web/Greg_Nordins_Blog/My_Albums/Pages/First_2009_Dirt_bike_ride.html</link>
+      <guid isPermaLink="false">106a4ea9-27eb-4c15-a0aa-57c57a11b5bc</guid>
+    </item>
+  </channel>
+</rss>
